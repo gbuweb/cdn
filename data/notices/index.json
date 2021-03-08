@@ -3,12 +3,12 @@
   "pdf": "GBU-012-DSA-2021-338.pdf",
   "createdat": "2021-02-27T13:37:27+00:00",
   "displaytill": "2021-03-31T13:37:27+00:00",
-  "isActive":"true"
+  "isActive":1
 },
  { "id": "2",
   "title": "Hostel/Mess Exemption for Project/Training etc.",
   "pdf": "GBU-012-DSA-027-001.pdf",
   "createdat": "2021-03-01T13:37:27+00:00",
   "displaytill": "2021-03-31T13:37:27+00:00",
-  "isActive":"true"
+  "isActive":1
 }]
