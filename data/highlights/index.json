@@ -1,12 +1,11 @@
 [{ "id": "210001",
-    "title": "Conference of Scientific and Natural Computing",
-    "description": "HL",
-    "photo": "210312-1.jpg",
-    "type": "upcoming",
-    "school": "USOVSAS",
-    "pdf": "GBU-002-Admn-RUSA-18-2021.pdf",
-    "createdat": "2021-03-12T13:37:27+00:00",
-    "order":"1"
-  }
- ]
-  
+  "title": "Conference of Scientific and Natural Computing",
+  "description": "HL",
+  "photo": "210312-1.jpg",
+  "type": "upcoming",
+  "school": "USOVSAS",
+  "pdf": "210001.pdf",
+  "createdat": "2021-03-12T13:37:27+00:00",
+  "order":"1"
+}
+]
