@@ -1,17 +1,25 @@
 [
+  { "id": "22",
+    "type":"Hostel",
+    "title": " hostel Allotment List for First Year Girls students (2nd Phase)",
+    "pdf": "Girls_hostel_Allotment_List_2ndPhase_25March2021.pdf",
+    "createdat": "2021-03-22T13:37:27+00:00",
+    "displaytill": "2021-03-31T13:37:27+00:00",
+    "isActive":1
+  },
   { "id": "21",
     "type":"Exam",
     "title": "Teaching Classes in Even Semester 2020-21",
     "pdf": "Circular_TeachingClass_EvenSem_22Mar2021.jpg",
-    "createdat": "2021-03-12T13:37:27+00:00",
+    "createdat": "2021-03-22T13:37:27+00:00",
     "displaytill": "2021-03-31T13:37:27+00:00",
     "isActive":1
   },
-   { "id": "20",
+  { "id": "20",
     "type":"Hostel",
     "title": "Important Notice regarding hostel and classes for First Year Girls students",
     "pdf": "Notice_hostel_Girls students_19Mar2021.pdf",
-    "createdat": "2021-03-12T13:37:27+00:00",
+    "createdat": "2021-03-19T13:37:27+00:00",
     "displaytill": "2021-03-31T13:37:27+00:00",
     "isActive":1
   },
