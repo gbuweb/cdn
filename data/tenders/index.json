@@ -1,75 +1,9 @@
 [
   { "id": "1",
     "title": "Quotation for Supply of Single phase Prepaid meter of GBU",
-    "file": "GBU-002-Admin-180-EE-2021.pdf",
-    "createdat": "2021-03-12T13:37:27+00:00",
-    "activetill": "2021-03-12T13:37:27+00:00",
+    "file": "Quotation_PrepaidMeter _1April2021.pdf",
+    "createdat": "2021-04-01T13:37:27+00:00",
+    "activetill": "2021-04-06T13:37:27+00:00",
     "order":"1"
- },
- { "id": "2",
-  "title": "Quotation for supply of Equipments for Structural Engineering Lab SOE in GBU",
-  "file": "GBU-002-Admn-RUSA-18-2021.pdf",
-  "createdat": "2021-03-12T13:37:27+00:00",
-  "activetill": "2021-03-12T13:37:27+00:00",
-  "order":"1"
-},
-{
-  "id": "3",
-  "title": "Quotation for Supply of Equipment for Enviornmental Science Lab- SoVSAS in GBU",
-  "file": "GBU-002-Admn-RUSA-16-2021.pdf",
-  "createdat": "2021-03-09T13:37:27+00:00",
-  "activetill": "2021-03-12T13:37:27+00:00",
-  "order":"1"
-},
-  { "id": "4",
-    "title": "Quotation for Supply of Equipment for Mass Communication Lab- SoHSS in GBU",
-    "file": "GBU-002-Admn-RUSA-17-2021.pdf",
-    "createdat": "2021-03-09T13:37:27+00:00",
-    "activetill": "2021-03-12T13:37:27+00:00",
-    "order":"1"
-  },
-   { "id": "5",
-    "title": "Quotation for Supply of Equipment for Applied Chemistry Lab, SoVSAS",
-    "file": "GBU-002-Admn-RUSA-14-2021.pdf",
-    "createdat": "2021-03-09T13:37:27+00:00",
-    "activetill": "2021-03-12T13:37:27+00:00",
-    "order":"1"
-  },
-{
-  "id": "6",
-  "title": "Notice for Registration of Print Books Publishers/Vendors/Suppliers/Distributors",
-  "file": "GBU-Library-01-2021.pdf",
-  "createdat": "2021-03-04T13:37:27+00:00",
-  "activetill": "2021-03-12T13:37:27+00:00",
-  "order":"1"
-},
-  { "id": "7",
-    "title": "Tender for Supply & Installation of Desktop Computer and Printer under DST-SERB Project Sanctioned to Dr. Manmohan Singh Shishodia, SoVAS",
-    "file": "Tender_DesktopPrinterDST-SERB_DrManmohan.pdf",
-    "createdat": "2021-03-01T13:37:27+00:00",
-    "activetill": "2021-03-12T13:37:27+00:00",
-    "order":"1"
-  },
-  { "id": "8",
-    "title": "Tender for Repairing of 80 KVA Online UPS at Central Computer Center",
-    "file": "Tender_Repair_80KVAUPS_1March2021.pdf",
-    "createdat": "2021-03-01T13:37:27+00:00",
-    "activetill": "2021-03-12T13:37:27+00:00",
-    "order":"1"
-  },
-  { "id": "9",
-    "title": "Tender for Allotment of Commercial Shop/Tuck Shop on Monthly License Fee Basis at Shopping Complex and other Places in GBU for a Period of three Years",
-    "file": "Tender_Shop_ShoppingComplex_1March2021.pdf",
-    "createdat": "2021-03-1T13:37:27+00:00",
-    "activetill": "2021-03-12T13:37:27+00:00",
-    "order":"1"
-  },
-  {
-    "id": "10",
-    "title": "Tender for Supply and Installation of Equipment for DST-WOS-A Sponsored Project Dr. Vidushi Sharma- Mentor, SoICT",
-    "file": "TENDER_DST-WOS-ProjectDrVidushi Sharma.pdf",
-    "createdat": "2021-03-01T13:37:27+00:00",
-    "activetill": "2021-03-12T13:37:27+00:00",
-    "order":"1"
-  }
+ }
 ]
