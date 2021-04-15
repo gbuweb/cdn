@@ -1,4 +1,12 @@
 [
+  { "id": "35",
+    "type":"Hostel",
+    "title": "Important Notice regarding Covid for Students",
+    "pdf": "Notice_Students_Covid_15Apr2021.pdf",
+    "createdat": "2021-04-15T13:37:27+00:00",
+    "displaytill": "2021-04-30T13:37:27+00:00",
+    "isActive":1
+  },
   { "id": "34",
     "type":"Hostel",
     "title": "Important Notice regarding Covid Test in the dispensary of GBU",
