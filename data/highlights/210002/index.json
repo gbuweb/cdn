@@ -1,14 +1,5 @@
-[{ "id": "210001",
-  "title": "Conference of Scientific and Natural Computing",
-  "description": "HL",
-  "photo": "210312-1.jpg",
-  "type": "highlights",
-  "school": "USOVSAS",
-  "pdf": "210001.pdf",
-  "createdat": "2021-03-12T13:37:27+00:00",
-  "order":"1"
-},
- {"id": "210002",
+[
+    {"id": "210002",
     "title": "First International Conference on Artificial Intelligence and Sustainable Computing for Smart Cities -AIS2C2 (22-23 March 2021)",
     "description": "First International Conference on Artificial Intelligence and Sustainable Computing for Smart Cities -AIS2C2 (22-23 March 2021)",
     "photo": "none",
