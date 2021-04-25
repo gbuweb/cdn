@@ -1,4 +1,15 @@
-[{ "id": "210001",
+[
+ {"id": "210000",
+    "title": "Dr. Gyanaditya Shakya honoured with Presidential Award and Vividh Puraskar",
+    "description": "Dr. Gyanaditya Shakya is awarded with Presidential Award of Maharshi Badrayan Vyas Samman by Honorable Vice President of India Shri M. Venkaiah Naidu in New Delhi.",
+    "photo": "none",
+    "type": "highlights",
+    "school": "USOBSC",
+    "pdf": "210000.pdf",
+    "createdat": "2019-04-04T13:37:27+00:00",
+    "order":"2"
+ },
+  { "id": "210001",
   "title": "Conference of Scientific and Natural Computing",
   "description": "HL",
   "photo": "210312-1.jpg",
