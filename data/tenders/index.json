@@ -1,24 +1,24 @@
 [
   
-  { "id": "1",
-    "title": "Corrigendum/Extension of Last Date of E-bid",
-    "file": "Corrigendum_lastDateExt_13April2021.pdf",
-    "createdat": "2021-04-13T13:37:27+00:00",
-    "activetill": "2021-04-20T13:37:27+00:00",
-    "order":"1"
- },
-  { "id": "2",
-    "title": "Quotation for Printing and supply of admission Brochure 2021-22 GBU",
-    "file": "Quotation_AdmissionBrochure_11April2021.pdf",
-    "createdat": "2021-04-10T13:37:27+00:00",
-    "activetill": "2021-04-14T13:37:27+00:00",
-    "order":"1"
- },
-  { "id": "3",
-    "title": "Quotation for Supply of Single phase Prepaid meter of GBU",
-    "file": "Quotation_PrepaidMeter _1April2021.pdf",
-    "createdat": "2021-04-01T13:37:27+00:00",
-    "activetill": "2021-04-06T13:37:27+00:00",
-    "order":"1"
- }
+//   { "id": "1",
+//     "title": "Corrigendum/Extension of Last Date of E-bid",
+//     "file": "Corrigendum_lastDateExt_13April2021.pdf",
+//     "createdat": "2021-04-13T13:37:27+00:00",
+//     "activetill": "2021-04-20T13:37:27+00:00",
+//     "order":"1"
+//  },
+//   { "id": "2",
+//     "title": "Quotation for Printing and supply of admission Brochure 2021-22 GBU",
+//     "file": "Quotation_AdmissionBrochure_11April2021.pdf",
+//     "createdat": "2021-04-10T13:37:27+00:00",
+//     "activetill": "2021-04-14T13:37:27+00:00",
+//     "order":"1"
+//  },
+//   { "id": "3",
+//     "title": "Quotation for Supply of Single phase Prepaid meter of GBU",
+//     "file": "Quotation_PrepaidMeter _1April2021.pdf",
+//     "createdat": "2021-04-01T13:37:27+00:00",
+//     "activetill": "2021-04-06T13:37:27+00:00",
+//     "order":"1"
+//  }
 ]
