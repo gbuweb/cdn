@@ -9,6 +9,16 @@
     "createdat": "2022-01-28T13:37:27+00:00",
     "order":"0"
  },
+ {"id": "210000",
+   "title": "Dr. Gyanaditya Shakya honoured with Presidential Award and Vividh Puraskar",
+   "description": "Dr. Gyanaditya Shakya is awarded with Presidential Award of Maharshi Badrayan Vyas Samman by Honorable Vice President of India Shri M. Venkaiah Naidu in New Delhi.",
+   "photo": "210000.png",
+   "type": "highlights",
+   "school": "USOBSC",
+   "pdf": "210000.pdf",
+   "createdat": "2019-04-04T13:37:27+00:00",
+   "order":"2"
+},
  { "id": "210001",
   "title": "A movie by GBU students in Los Angeles for 6 International selections",
   "description": "Over 300 students and faculties of Gautam Buddha University abuted their hands for a 2 hours feature film 'Act of Choice'. The movie was directed by 'Mayank Singh',a 2nd year Mechanical Engg. student and production was managed by producer 'Pankhi Vatsa', a 2nd year Biotech Engg. student. The film was made with heartful encouragement,motivation and support of Dr. Shweta Anand, Dean of Management and Chairperson    Cultural Council & Dr. Athar Hussain, HOD of Civil Engg., GBU. The film group namely 'SDS aka Shaping dreams to sky' is a homogeneous composition of 30 main members, not a couple of them are from any common field of study & background but they share a commonpassion.",
@@ -28,15 +38,5 @@
     "pdf": "210002.pdf",
     "createdat": "2021-04-29T13:37:27+00:00",
     "order":"2"
- },
- {"id": "210000",
-   "title": "Dr. Gyanaditya Shakya honoured with Presidential Award and Vividh Puraskar",
-   "description": "Dr. Gyanaditya Shakya is awarded with Presidential Award of Maharshi Badrayan Vyas Samman by Honorable Vice President of India Shri M. Venkaiah Naidu in New Delhi.",
-   "photo": "210000.png",
-   "type": "highlights",
-   "school": "USOBSC",
-   "pdf": "210000.pdf",
-   "createdat": "2019-04-04T13:37:27+00:00",
-   "order":"2"
-}
+ }
 ]
