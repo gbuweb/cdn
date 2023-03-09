@@ -1,14 +1,5 @@
 [
- {"id": "210003",
-    "title": "Prof. Ravindra Kumar Sinha joins as VC",
-    "description": "Prof Ravindra Kumar Sinha has joined as Vice Chancellor of GBU on 28 Jan 2022.",
-    "photo": "210003.jpg",
-    "type": "highlights",
-    "school": "GBU",
-    "pdf": "Profile_Prof_R_K_Sinha.pdf",
-    "createdat": "2022-01-28T13:37:27+00:00",
-    "order":"0"
- },
+ 
  {"id": "210000",
    "title": "Dr. Gyanaditya Shakya honoured with Presidential Award and Vividh Puraskar",
    "description": "Dr. Gyanaditya Shakya is awarded with Presidential Award of Maharshi Badrayan Vyas Samman by Honorable Vice President of India Shri M. Venkaiah Naidu in New Delhi.",
@@ -39,4 +30,14 @@
     "createdat": "2021-04-29T13:37:27+00:00",
     "order":"2"
  }
-]
+,
+{"id": "210003",
+    "title": "Prof. Ravindra Kumar Sinha joins as VC",
+    "description": "Prof Ravindra Kumar Sinha has joined as Vice Chancellor of GBU on 28 Jan 2022.",
+    "photo": "210003.jpg",
+    "type": "highlights",
+    "school": "GBU",
+    "pdf": "Profile_Prof_R_K_Sinha.pdf",
+    "createdat": "2022-01-28T13:37:27+00:00",
+    "order":"0"
+ }]
